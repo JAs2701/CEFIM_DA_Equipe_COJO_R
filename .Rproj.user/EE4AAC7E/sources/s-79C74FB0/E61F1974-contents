@@ -1,0 +1,15 @@
+
+    # Filter data based on selections
+   
+  } # end if
+  else
+  {
+    #shinyjs::enable("Btn_aff")
+    
+    
+    
+    
+    
+  }
+  
+}) #observe
